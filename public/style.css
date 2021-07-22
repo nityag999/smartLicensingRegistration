@@ -1,0 +1,77 @@
+
+
+body{
+  background-color: rgb(186, 209, 235);
+}
+
+hr{
+  height: 2px; 
+  color: black;   
+}
+
+
+.header{
+  display:table;
+  background:#3494E4;
+ }
+
+.left{
+  display:table-cell;
+  width:20vw;
+  border:none;
+}
+
+.center{
+  display:table-cell;
+  width:60vw;
+  text-align: center;
+}
+
+.right{
+  display:table-cell;
+  width:20vw;
+  text-align: right;
+}
+
+.breadcrumb{
+  background-color: rgb(218, 215, 215);
+  height: 50px;
+
+}
+
+
+.registration{
+  display:table;
+  border: 2px;
+ }
+
+.registration-left{
+  display:table-cell;
+  width:33%;
+  border: 2px solid black;
+  text-align: left;
+
+}
+
+.registration-center{
+  display:table-cell;
+  width:33%;
+  text-align: left;
+  padding-right: 10px;
+  padding-left: 20px; 
+  border: 2px;
+  border-color: black;
+  border: 2px solid black;
+
+}
+
+.registration-right{
+  display:table-cell;
+  width:33%;
+  text-align: left;
+  border: 2px;
+  border: 2px solid black;
+}
+
+
+
